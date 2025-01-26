@@ -1,0 +1,4 @@
+# DB 생성, 삭세, 선택
+DROP DATABASE IF EXISTS app1;
+CREATE DATABASE app1;
+USE app1;
